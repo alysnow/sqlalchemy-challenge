@@ -1,6 +1,8 @@
 # SQLAlchemy Homework - Surfs Up!
 Week 10 - Homework
 
+![surfs-up.png](images/surfs-up.png)
+
 In preparation for a long holiday vacation in Honolulu, Hawaii the following analysis has been completed to assist with planning an epic trip.
 
 
