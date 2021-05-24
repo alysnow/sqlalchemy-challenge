@@ -93,7 +93,7 @@ Design a Flask API based on the queries that you have just developed in the jupy
 
 Utilizing the Visual Studio Code to generate a Flask API to create routes. A copy of the py file is located in the following link;
 
-https://github.com/alysnow/sql-challenge/blob/main/app.py
+https://github.com/alysnow/sqlalchemy-challenge/blob/main/app.py
 
 
 # Contributor
